@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+}
+
+.target {
+    background-color: royalblue;
+}
+
+.Global-box {
+    column-gap: 40px;
+    background-color: blue;
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    background-color: white;
+    width: 250px;
+    height: 150px;
+    justify-content: space-around;
+}
